@@ -30,4 +30,4 @@ The trained model achieved an accuracy of approximately 95% on the test set. You
 
 ## Conclusion
 
-In conclusion, this project demonstrates the use of a convolutional neural network for classifying chest X-ray images into three categories: covid, viral pneumonia, and normal. The Jupyter Notebook included in this repository provides a detailed overview of the data preparation, model architecture, model training, and model evaluation steps. Feel free to reach out to me on [GitHub](https://github.com/macfadem) if you have any questions or feedback!
+In conclusion, this project demonstrates the use of a convolutional neural network for classifying chest X-ray images into three categories: covid, viral pneumonia, and normal. The Jupyter Notebook included in this repository provides a detailed overview of the data preparation, model architecture, model training, and model evaluation steps. Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/macfadem) if you have any questions or feedback!
